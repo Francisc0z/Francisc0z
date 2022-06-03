@@ -39,7 +39,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
@@ -48,7 +47,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
       </td>
     </tr>
