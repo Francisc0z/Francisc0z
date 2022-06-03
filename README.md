@@ -1,4 +1,4 @@
-<b> Prueba de html <b>
+<b> Prueba de html <b> <br> <br>
 ✨Hola, soy Francisco Silva✨ <br>
 ✨Soy Programador FullStacks y con con conocimientos en el desarrollo de software✨<br>
 ✨Busco Trabajar en una empresa para obtener experiencia y asi poder continuar capacitandome✨<br>
