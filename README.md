@@ -12,13 +12,7 @@
 🌈Python (Para backend y software)<br>
 🌈Angular<br>
 🌈MySql<br>
-✨Pero siempre estoy dispuesto a aprender nuevas<br>
-✨Podes encontrarme de las siguientes formas:<br>
-🌈+54 3445-530635<br>
-🌈franciscsilva11@gmail.com<br>
-🌈https://www.linkedin.com/in/francisco-silva-57564b209/<br>
-✨Gracias por leer✨
-<table>
+  <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -51,3 +45,11 @@
       </td>
     </tr>
   </tbody>
+
+  
+✨Pero siempre estoy dispuesto a aprender nuevas<br>
+✨Podes encontrarme de las siguientes formas:<br>
+🌈+54 3445-530635<br>
+🌈franciscsilva11@gmail.com<br>
+🌈https://www.linkedin.com/in/francisco-silva-57564b209/<br>
+✨Gracias por leer✨
